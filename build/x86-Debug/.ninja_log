@@ -1,0 +1,9 @@
+# ninja log v5
+10	1503	577623408	prism/CMakeFiles/prism.dir/s6/ls2d_settings.cpp.obj	3e8d381c9e211b96
+29	1514	577623408	prism/CMakeFiles/prism.dir/utils/timer.cpp.obj	164160c52e6ba10c
+39	1528	577623408	prism/CMakeFiles/prism.dir/s6/sensor_info.cpp.obj	9a2bbe38394e6866
+2	4684	577623411	prism/CMakeFiles/prism.dir/s6/ls2d_device.cpp.obj	c66223553620469c
+19	4760	577623412	prism/CMakeFiles/prism.dir/s6/sensor_search.cpp.obj	25319870f6b5fd89
+49	5475	577623412	console/CMakeFiles/console.dir/main.cpp.obj	905f202b09145c3f
+4805	6356	577623413	../../bin/x32-Debug/prism.lib	c5864e13b0722da3
+6356	10195	577623417	../../bin/x32-Debug/console.exe	b1322cb01d715290
