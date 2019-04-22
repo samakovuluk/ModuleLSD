@@ -15,6 +15,7 @@ ls2d_device sens;
 void press_any_key() {
     //if (!system("pause")) return;
     cout << "Press enter to continue...\n";
+	cout << "SAMAKOVS" << endl;
     getchar();
 }
 
